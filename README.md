@@ -1,2 +1,2 @@
 # odin_LandingPage
-CSS Odin Intro Project
+CSS Odin Intro Project :)
